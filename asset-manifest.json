@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.37375457.chunk.css",
+    "main.js": "./static/js/main.2c02a4fc.chunk.js",
+    "main.js.map": "./static/js/main.2c02a4fc.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.24e87457.js",
+    "runtime-main.js.map": "./static/js/runtime-main.24e87457.js.map",
+    "static/css/2.405d60bc.chunk.css": "./static/css/2.405d60bc.chunk.css",
+    "static/js/2.11045267.chunk.js": "./static/js/2.11045267.chunk.js",
+    "static/js/2.11045267.chunk.js.map": "./static/js/2.11045267.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.1ed60d5b14b230371df4949ad5f1e407.js": "./precache-manifest.1ed60d5b14b230371df4949ad5f1e407.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.405d60bc.chunk.css.map": "./static/css/2.405d60bc.chunk.css.map",
+    "static/css/main.37375457.chunk.css.map": "./static/css/main.37375457.chunk.css.map",
+    "static/js/2.11045267.chunk.js.LICENSE.txt": "./static/js/2.11045267.chunk.js.LICENSE.txt",
+    "static/media/antv.svg": "./static/media/antv.cbc4de9a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24e87457.js",
+    "static/css/2.405d60bc.chunk.css",
+    "static/js/2.11045267.chunk.js",
+    "static/css/main.37375457.chunk.css",
+    "static/js/main.2c02a4fc.chunk.js"
+  ]
+}
